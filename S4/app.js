@@ -1,4 +1,5 @@
 const greet = require('./greet');
 
-greet();
+greet.toshiGreet();
+greet.matthewGreet();
 
